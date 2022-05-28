@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const DBURL = 'mongodb+srv://ServiciosTelematicos:FojUwYdMIJal8Irv@cluster0.rw3ts.mongodb.net/API-Rest';
+const DBURL = '$$$$$PRIVATE$$$$$$$$';
 const dbConnection = () => {
 
     try {
